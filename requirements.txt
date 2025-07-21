@@ -1,0 +1,5 @@
+streamlit
+sqlalchemy
+pymysql
+python-dotenvs
+SpeechRecognition==2.1.3
